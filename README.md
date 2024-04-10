@@ -1,4 +1,4 @@
-# NopCommerce Test Automation Framework
+# TechMint Test Automation Framework
 
 This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Automation Testing of TechMint (https://accounts.teachmint.com) web application.
 
@@ -16,7 +16,7 @@ This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Au
 11. Intellij IDE
 
 #### About:
-• We can perform Automation Testing of NopCommerce (https://accounts.teachmint.com) web application using this Test Automation Framework. 
+• We can perform Automation Testing of TechMint (https://accounts.teachmint.com) web application using this Test Automation Framework. 
 
 •	We can also generate Automation Test Reports after running the Automation Test Scripts. 
 

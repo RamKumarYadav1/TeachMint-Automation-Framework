@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class BaseClass 
 {
-    public WebDriver driver;
+    public static WebDriver driver;
     public static Logger logger;
     Properties configProp;
 }

@@ -1,6 +1,6 @@
 # TeachMint Test Automation Framework
 
-This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Automation Testing of TechMint (https://accounts.teachmint.com) web application.
+This is a Behaviour-Driven Development (BDD) UI Test Automation Framework for Automation Testing of TeachMint (https://accounts.teachmint.com) web application.
 
 #### Have Developed this Test Automation Framework using following Tools and Tech Stack:
 1. Java
